@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Paulo Brandão, bem vindo ao meu perfil!
-- 🔭 Atualmente trabalho com desenvolvimento full-stack
 - 🌱 Estou estudando, python, html, css, javascript e ruby
 - 😄 Pronouns: Ele/Dele
 
