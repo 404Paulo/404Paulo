@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Paulo Brandão, bem vindo ao meu perfil!
-- 🌱 Estou estudando, python, html, css, javascript e ruby
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudante de Engenharia de Software. Tenho grande interesse na área de dados e atualmente trabalho como DBA. Estou comprometido em aprender continuamente e aprimorar minhas habilidades a cada dia.
 
  <div>
   <a href="https://github.com/404Paulo">
